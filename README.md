@@ -1,4 +1,3 @@
-# Black Bucket
 ![Black Bucket Header](bul.png)
 
 ## Languages
