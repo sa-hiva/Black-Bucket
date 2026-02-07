@@ -1,43 +1,60 @@
-![Black Bucket Header](bul.png)
+# 🪣 Black Bucket
 
-## Languages
-- English
+<p align="center">
+  <img src="bul.png" alt="Black Bucket Header" width="100%">
+  <br>
+  <b>"Nothing exists if it’s not unmasked."</b>
+</p>
 
-##  Platforms
-- MS Windows  
-- Web
+<p align="center">
+  <a href="https://godotengine.org"><img src="https://img.shields.io" alt="Godot Engine"></a>
+  <img src="https://img.shields.io" alt="Platforms">
+  <img src="https://img.shields.io" alt="Genre">
+</p>
 
-##  Tools and Technologies
-- Godot Engine
+---
 
-## About
+## 🎭 About the Game
 
-**Black Bucket** is a game that approaches the *“mask”* theme from the same angle as image-editing software.
+**Black Bucket** is a unique puzzle-platformer that reinterprets the digital concept of a **"masking layer"** as a gameplay mechanic. 
 
-In this type of programs, a mask is a layer placed on top of another layer or image. By painting either black or white, it hides or shows the content behind it without altering the original image. A widely known example of a masking layer is the **green screen**, commonly used in video editing software.
+In image-editing software, a mask hides or shows content without altering the original image—similar to how a **green screen** works in video production. In this game, your vision is your reality.
 
-The game is a combination of **puzzle** and **platformer**, based mainly on **trial-and-error** and **exploration**.
+### 📜 The Story
+After a forceful update implemented an AI tool without consent, a creator's illustrations have been corrupted. As a small scribble, you must chase the malfunctioning **Bucket Tool** and navigate through the digital mess to save the remaining artwork.
 
-After a forceful update that implemented an AI tool without asking, the illustrations of a person are spoiled when the bucket tool becomes corrupted. Now, it is the mission of one of the scribbles to chase after the bucket and save its creator’s artworks.
+---
 
-All levels are covered by a mask that completely hides the background, and each level has **two phases**:
+## 🕹️ Core Mechanics
 
-###  Drawing Phase
-- The player cannot move.
-- A limited amount of ink is available.
-- The player can draw **one stroke** on the mask layer.
-- The stroke reveals the platformer world behind it.
+The game is built on **exploration** and **trial-and-error**, alternating between two critical phases:
 
-###  Platforming Phase
-- The player must reach the end of the level.
-- Only the revealed areas exist.
-- Platforms are not always necessary — sometimes the best path is *through*.
+### 🖌️ Phase 1: Drawing
+*   **Frozen World:** You cannot move your character.
+*   **Ink Limits:** You have a specific amount of ink available.
+*   **The Reveal:** Draw **one single stroke** on the mask layer to unveil the hidden platforms behind the darkness.
 
-> **Remember:** nothing exists if it’s not unmasked. Be clever.
+### 🏃 Phase 2: Platforming
+*   **Vision is Reality:** Only the areas you revealed have physical properties. If you can't see it, you can't step on it.
+*   **Thinking Outside the Box:** Sometimes the path isn't a platform; sometimes, the best way forward is *through* the void.
 
-Good luck!  
-Help the drawings escape from the AI’s corruption!
+---
 
-## Installation Instructions
-1. Unzip the files  
-2. Execute the game
+## 🚀 Installation & Play
+
+1.  **Download:** Get the latest version from the [Releases](https://github.com) section.
+2.  **Extract:** Unzip the downloaded files to your preferred directory.
+3.  **Launch:** Execute the `BlackBucket.exe` to start your mission.
+
+> [!TIP]
+> **Be Clever:** Plan your stroke carefully. In the world of Black Bucket, your ink is your only bridge to survival.
+
+---
+
+## 🛠️ Built With
+
+*   [Godot Engine](https://godotengine.org) - The Game Engine used.
+*   [Shields.io](https://shields.io) - Used for the visual badges.
+
+---
+<p align="center">Help the drawings escape from the AI’s corruption!</p>
